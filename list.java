@@ -6,7 +6,7 @@ class Arraylist{
         list.add(7);
         list.add(11);
         list.add(10);
-        // System.out.println(list);
+        // System.out.println(list);       
         int ele = list.get(0);
         System.out.println(ele);
         list.add(1,8);
